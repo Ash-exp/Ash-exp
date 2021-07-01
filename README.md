@@ -90,35 +90,26 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 
 **GitHub Stats🎯**<br>
 
-<img width="20%" src="https://profile-counter.glitch.me/{prathimacode-hub}/count.svg" /> 
-
-
-<details><summary>Recent Activity</summary>
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#593](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/593) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-2. 🎉 Merged PR [#592](https://github.com/prathimacode-hub/Awesome_Python_Scripts/pull/592) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-3. ❗️ Closed issue [#588](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/588) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-4. 🎉 Merged PR [#584](https://github.com/prathimacode-hub/Awesome_Python_Scripts/pull/584) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-<!--END_SECTION:activity-->
-</details>
+<img width="15%" src="https://komarev.com/ghpvc/?username=Ash-exp" alt="Ash-exp" />
 
 
 <details><summary>Contribution Graph</summary>
+ <br>
 <p align="left">
-<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=prathimacode-hub&theme=xcode" /></p>
+<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=Ash-exp&theme=xcode" /></p>
 </details>
 
 
 <details><summary>Trophies</summary>
+ <br>
 <p align="left">
-<img width=900 src="https://github-profile-trophy.vercel.app/?username=prathimacode-hub&column=7&theme=gruvbox&no-frame=true"/>
+<img width=900 src="https://github-profile-trophy.vercel.app/?username=Ash-exp&column=7&theme=gruvbox&no-frame=true"/>
 </details>
 
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=prathimacode-hub&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" /> 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=prathimacode-hub&theme=tokyonight" />
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ash-exp&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" /> 
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ash-exp&theme=tokyonight" />
 </p>
 
 
