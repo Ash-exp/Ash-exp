@@ -7,7 +7,7 @@ or use it. It'll help me a great deal.
 
 ![Alt text of image](<https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Prathima%20Kadari's%20Cover.png>)
 
-<a href="https://www.linkedin.com/in/ash-exp/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>&nbsp;&nbsp; <a href="https://www.instagram.com/_vintage_hues/?hl=en"><img src="https://img.shields.io/badge/Instagram-2962FF?style=for-the-badge&logo=instagram&logoColor=white"></img></a>&nbsp;&nbsp; 
+<a href="https://www.linkedin.com/in/ash-exp/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>&nbsp;&nbsp;
 <a href="https://github.com/Ash-exp/"><img src="https://img.shields.io/badge/GitHub-0077B5?style=for-the-badge&logo=github&logoColor=white"></img></a>&nbsp;&nbsp; 
 <a href="https://www.codechef.com/users/ash_exp"><img src="https://img.shields.io/badge/Codechef-2962FF?style=for-the-badge&logo=codechef&logoColor=white"></img></a>&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/asutosh2000ad"><img src="https://img.shields.io/badge/Hackerrank-2962FF?style=for-the-badge&logo=hackerrank&logoColor=white"></img></a>&nbsp;&nbsp;
@@ -28,18 +28,15 @@ Mentor at <a href="https://hackmakers.com/">Hackmakers</a>📍, OpenSource Contr
  
 **Digital Garden🌱**<br>
 
-<img align='right' src='https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Profile/My%20Octocat.gif' width='300"'>
-
-➡️You can find all of my blogs [here](https://prathimakadari.hashnode.dev/)<br>
-Follow Up and Subscribe to my Newsletter to get timely updates
-
-- [My Python Journey](https://prathimakadari.hashnode.dev/my-python-learning-experience)
-- [Reinforcement Learning](https://www.analyticsvidhya.com/blog/2021/02/introduction-to-reinforcement-learning-for-beginners/)
-- [Getting Started with Internet of Thing(IoT)](https://prathimakadari.hashnode.dev/getting-started-with-iot)
-- [A Simple Guide to K-Nearest Neighbour Classification using Python](https://prathimakadari.hashnode.dev/a-simple-guide-to-k-nearest-neighbor-classification-using-python)
-- [Stepping Stone to my Portfolio](https://prathimakadari.hashnode.dev/stepping-stone-to-my-portfolio)
-- [My Lane of Blogging Plans](https://prathimakadari.hashnode.dev/my-lane-of-blogging-plans)
-
+- 🌱 I’m currently learning **to be consistent in life**
+- 👯 I’m looking to collaborate on **Open source projects and DSA-learning**
+- 🤝 I’m looking for help with **Competitive Programming**
+- 💬 Ask me about **anything(would definitely try helping you out)**
+- 📫 How to reach me **ash.exp@outlook.com**
+- 😄 Pronouns: **He/His**
+- ⚡ Fun fact: **Apart from playing with 0 1, I'm a sketch artist !!**&ensp;*Way to my ART GALLERY ➡️* <br>
+ 
+&emsp; &emsp;<a href="https://www.instagram.com/_vintage_hues/?hl=en"><img src="https://img.shields.io/badge/Instagram-2962FF?style=for-the-badge&logo=instagram&logoColor=white"></img></a>&nbsp;&nbsp;
  
 **Tech Toolbox🧰**<br>
 
