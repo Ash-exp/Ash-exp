@@ -19,7 +19,7 @@ or use it. It'll help me a great deal.
 </ul>
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-## Profile<br>
+## Profile 👦<br>
 
 - 🌱 I’m currently learning **to be consistent in life**
 - 👯 I’m looking to collaborate on **Open source projects and DSA-learning**
