@@ -29,8 +29,9 @@ or use it. It'll help me a great deal.
 - 😄 Pronouns: **He/His**
 - ⚡ Fun fact: **Apart from playing with 0 1, I'm a sketch artist !!**&ensp;*This way to my ART GALLERY ➡️* <br>
  
-&emsp; &emsp;<a href="https://www.instagram.com/_vintage_hues/?hl=en"><img src="https://img.shields.io/badge/Instagram-2962FF?style=for-the-badge&logo=instagram&logoColor=white"></img></a>&nbsp;&nbsp;
- 
+&emsp; &emsp;<a href="https://www.instagram.com/_vintage_hues/?hl=en"><img src="https://img.shields.io/badge/Instagram-2962FF?style=for-the-badge&logo=instagram&logoColor=white"></img></a>&nbsp;&nbsp;<br>
+
+
 ## Tech Toolbox 🧰<br>
 
 <p align="left">
@@ -60,7 +61,7 @@ or use it. It'll help me a great deal.
 <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Firebase.png" alt="Firebase" width="40" height="40"/>
 <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Heroku.png" alt="Heroku" width="40" height="40"/>
 <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Html.png" alt="HTML" width="40" height="40"/>
-<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Css.png" alt="CSS" width="40" height="40"/>
+<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Css.png" alt="CSS" width="40" height="40"/><br>
 
 
 ## Open Source Projects 🥇<br>
