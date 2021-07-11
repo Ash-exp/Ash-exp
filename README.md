@@ -11,14 +11,15 @@ or use it. It'll help me a great deal.
 <a href="https://github.com/Ash-exp/"><img src="https://img.shields.io/badge/GitHub-0077B5?style=for-the-badge&logo=github&logoColor=white"></img></a>&nbsp;&nbsp; 
 <a href="https://www.codechef.com/users/ash_exp"><img src="https://img.shields.io/badge/Codechef-2962FF?style=for-the-badge&logo=codechef&logoColor=white"></img></a>&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/asutosh2000ad"><img src="https://img.shields.io/badge/Hackerrank-2962FF?style=for-the-badge&logo=hackerrank&logoColor=white"></img></a>&nbsp;&nbsp;
- 
-<p align="left">Developer intern at <a href="http://www.practee.com/">Practee Technologies</a> 🔐, Competitive programmer at <a href="https://www.hackerrank.com/">Hacker Rank</a> & <a href="https://www.codechef.com/">Code Chef</a> 🤳, Artificial Intelligence & Machine LearningEnthusiast🔭, Mentor and Project Admin at <a href="https://github.com/Learn-For-Cause">GitHub</a>🚀, Co-founder and IT Head at <a href="https://www.learnforcause.com">Learn For Cause Community</a> 🙌, Freelancer👯</a></p>
 
-<p align="left">Passionate for learning and developing technologies💭, that aims to solve problems creating a greater impact on society. With my passion for innovation, I believe in giving my best and love what I do 💻</p>
+<ul>
+<li><p align="left">Developer intern at <a href="http://www.practee.com/">Practee Technologies</a> 🔐, Competitive programmer at <a href="https://www.hackerrank.com/">Hacker Rank</a> & <a href="https://www.codechef.com/">Code Chef</a> 🤳, Artificial Intelligence & Machine LearningEnthusiast🔭, Mentor and Project Admin at <a href="https://github.com/Learn-For-Cause">GitHub</a>🚀, Co-founder and IT Head at <a href="https://www.learnforcause.com">Learn For Cause Community</a> 🙌, Freelancer👯</a></p></li>
 
+<li><p align="left">Passionate for learning and developing technologies💭, that aims to solve problems creating a greater impact on society. With my passion for innovation, I believe in giving my best and love what I do 💻</p></li>
+</ul>
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<h3>Profile</h3><br>
+## Profile<br>
 
 - 🌱 I’m currently learning **to be consistent in life**
 - 👯 I’m looking to collaborate on **Open source projects and DSA-learning**
@@ -30,7 +31,7 @@ or use it. It'll help me a great deal.
  
 &emsp; &emsp;<a href="https://www.instagram.com/_vintage_hues/?hl=en"><img src="https://img.shields.io/badge/Instagram-2962FF?style=for-the-badge&logo=instagram&logoColor=white"></img></a>&nbsp;&nbsp;
  
-<h3>Tech Toolbox🧰</h3><br>
+## Tech Toolbox 🧰<br>
 
 <p align="left">
 <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/C.png" alt="C" width="40" height="40"/>
@@ -62,20 +63,18 @@ or use it. It'll help me a great deal.
 <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Css.png" alt="CSS" width="40" height="40"/>
 
 
- <h3>Open Source Projects-Open for Contributions🥇</h3><br>
+## Open Source Projects 🥇<br>
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/Ash-exp) 
 [![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green)](https://github.com/Ash-exp)
  
 |      Project :octocat:   |      Stars🌟    |  Forks🍴  |  Issues🐛  |  Open PRs:bell:  |  Closed PRs:fire:  |
 |-------------|-------------------|---|---|---|---|
-| [*Awesome_Python_Scripts*](https://github.com/prathimacode-hub/Awesome_Python_Scripts) | [![GitHub Stars](https://img.shields.io/github/stars/prathimacode-hub/Awesome_Python_Scripts?style=flat-square&labelColor=343b41)](https://github.com/prathimacode-hub/Awesome_Python_Scripts/stars) | [![GitHub Forks](https://img.shields.io/github/forks/prathimacode-hub/Awesome_Python_Scripts?style=flat-square&labelColor=343b41)](https://github.com/prathimacode-hub/Awesome_Python_Scripts/forks) | [![GitHub Issues](https://img.shields.io/github/issues/prathimacode-hub/Awesome_Python_Scripts?style=flat-square)](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues) | [![GitHub Open Pull Requests](https://img.shields.io/github/issues-pr/prathimacode-hub/Awesome_Python_Scripts?style=flat&logo=github)](https://github.com/prathimacode-hub/Awesome_Python_Scripts/pulls) | [![GitHub Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/prathimacode-hub/Awesome_Python_Scripts?style=flat&color=critical&logo=github)](https://github.com/prathimacode-hub/Awesome_Python_Scripts/pulls?q=is%3Apr+is%3Aclosed) |
-| [*ML-ProjectKart*](https://github.com/prathimacode-hub/ML-ProjectKart) | [![GitHub Stars](https://img.shields.io/github/stars/prathimacode-hub/ML-ProjectKart?style=flat-square&labelColor=343b41)](https://github.com/prathimacode-hub/ML-ProjectKart/stars) | [![GitHub Forks](https://img.shields.io/github/forks/prathimacode-hub/ML-ProjectKart?style=flat-square&labelColor=343b41)](https://github.com/prathimacode-hub/ML-ProjectKart/forks) | [![GitHub Issues](https://img.shields.io/github/issues/prathimacode-hub/ML-ProjectKart?style=flat-square)](https://github.com/prathimacode-hub/ML-ProjectKart/issues) | [![GitHub Open Pull Requests](https://img.shields.io/github/issues-pr/prathimacode-hub/ML-ProjectKart?style=flat&logo=github)](https://github.com/prathimacode-hub/ML-ProjectKart/pulls) | [![GitHub Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/prathimacode-hub/ML-ProjectKart?style=flat&color=critical&logo=github)](https://github.com/prathimacode-hub/ML-ProjectKart/pulls?q=is%3Apr+is%3Aclosed) |
-| [*PyAlgo-Tree*](https://github.com/prathimacode-hub/PyAlgo-Tree) | [![GitHub Stars](https://img.shields.io/github/stars/prathimacode-hub/PyAlgo-Tree?style=flat-square&labelColor=343b41)](https://github.com/prathimacode-hub/PyAlgo-Tree/stars) | [![GitHub Forks](https://img.shields.io/github/forks/prathimacode-hub/PyAlgo-Tree?style=flat-square&labelColor=343b41)](https://github.com/prathimacode-hub/PyAlgo-Tree/forks) | [![GitHub Issues](https://img.shields.io/github/issues/prathimacode-hub/PyAlgo-Tree?style=flat-square)](https://github.com/prathimacode-hub/PyAlgo-Tree/issues) | [![GitHub Open Pull Requests](https://img.shields.io/github/issues-pr/prathimacode-hub/PyAlgo-Tree?style=flat&logo=github)](https://github.com/prathimacode-hub/PyAlgo-Tree/pulls) | [![GitHub Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/prathimacode-hub/PyAlgo-Tree?style=flat&color=critical&logo=github)](https://github.com/prathimacode-hub/PyAlgo-Tree/pulls?q=is%3Apr+is%3Aclosed) |
-| [*HelloWorld*](https://github.com/prathimacode-hub/HelloWorld) | [![GitHub Stars](https://img.shields.io/github/stars/prathimacode-hub/HelloWorld?style=flat-square&labelColor=343b41)](https://github.com/prathimacode-hub/HelloWorld/stars) | [![GitHub Forks](https://img.shields.io/github/forks/prathimacode-hub/HelloWorld?style=flat-square&labelColor=343b41)](https://github.com/prathimacode-hub/HelloWorld/forks) | [![GitHub Issues](https://img.shields.io/github/issues/prathimacode-hub/HelloWorld?style=flat-square)](https://github.com/prathimacode-hub/HelloWorld/issues) | [![GitHub Open Pull Requests](https://img.shields.io/github/issues-pr/prathimacode-hub/HelloWorld?style=flat&logo=github)](https://github.com/prathimacode-hub/HelloWorld/pulls) | [![GitHub Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/prathimacode-hub/HelloWorld?style=flat&color=critical&logo=github)](https://github.com/prathimacode-hub/HelloWorld/pulls?q=is%3Apr+is%3Aclosed) |
- 
+| [*Zoom-Backup*](https://github.com/Ash-exp/zoom-backup) | [![GitHub Stars](https://img.shields.io/github/stars/Ash-exp/zoom-backup?style=flat-square&labelColor=343b41)](https://github.com/Ash-exp/zoom-backup/stars) | [![GitHub Forks](https://img.shields.io/github/forks/Ash-exp/zoom-backup?style=flat-square&labelColor=343b41)](https://github.com/Ash-exp/zoom-backup/forks) | [![GitHub Issues](https://img.shields.io/github/issues/Ash-exp/zoom-backup?style=flat-square)](https://github.com/Ash-exp/zoom-backup/issues) | [![GitHub Open Pull Requests](https://img.shields.io/github/issues-pr/Ash-exp/zoom-backup?style=flat&logo=github)](https://github.com/Ash-exp/zoom-backup/pulls) | [![GitHub Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/Ash-exp/zoom-backup?style=flat&color=critical&logo=github)](https://github.com/Ash-exp/zoom-backup/pulls?q=is%3Apr+is%3Aclosed) |
+| [*Forum-Thread*](https://github.com/Learn-For-Cause/Forum-Thread) | [![GitHub Stars](https://img.shields.io/github/stars/Learn-For-Cause/Forum-Thread?style=flat-square&labelColor=343b41)](https://github.com/Learn-For-Cause/Forum-Thread/stars) | [![GitHub Forks](https://img.shields.io/github/forks/Learn-For-Cause/Forum-Thread?style=flat-square&labelColor=343b41)](https://github.com/Learn-For-Cause/Forum-Thread/forks) | [![GitHub Issues](https://img.shields.io/github/issues/Learn-For-Cause/Forum-Thread?style=flat-square)](https://github.com/Learn-For-Cause/Forum-Thread/issues) | [![GitHub Open Pull Requests](https://img.shields.io/github/issues-pr/Learn-For-Cause/Forum-Thread?style=flat&logo=github)](https://github.com/Learn-For-Cause/Forum-Thread/pulls) | [![GitHub Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/Learn-For-Cause/Forum-Thread?style=flat&color=critical&logo=github)](https://github.com/Learn-For-Cause/Forum-Thread/pulls?q=is%3Apr+is%3Aclosed) |
 
-<h3>GitHub Stats🎯</h3><br>
+
+## GitHub Stats 🎯<br>
 
 <img src="https://komarev.com/ghpvc/?username=Ash-exp" alt="Ash-exp" />
 
