@@ -9,8 +9,8 @@ or use it. It'll help me a great deal.
 
 <a href="https://www.linkedin.com/in/ash-exp/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>&nbsp;&nbsp;
 <a href="https://github.com/Ash-exp/"><img src="https://img.shields.io/badge/GitHub-0077B5?style=for-the-badge&logo=github&logoColor=white"></img></a>&nbsp;&nbsp; 
-<a href="https://www.codechef.com/users/ash_exp"><img src="https://img.shields.io/badge/Codechef-2962FF?style=for-the-badge&logo=codechef&logoColor=white"></img></a>&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/asutosh2000ad"><img src="https://img.shields.io/badge/Hackerrank-2962FF?style=for-the-badge&logo=hackerrank&logoColor=white"></img></a>&nbsp;&nbsp;
+<a href="https://www.codechef.com/users/ash_exp"><img src="https://img.shields.io/badge/Codechef-0077B5?style=for-the-badge&logo=codechef&logoColor=white"></img></a>&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/asutosh2000ad"><img src="https://img.shields.io/badge/Hackerrank-0077B5?style=for-the-badge&logo=hackerrank&logoColor=white"></img></a>&nbsp;&nbsp;
 
 <ul>
 <li><p align="left">Developer intern at <a href="http://www.practee.com/">Practee Technologies</a> 🔐, Competitive programmer at <a href="https://www.hackerrank.com/">Hacker Rank</a> & <a href="https://www.codechef.com/">Code Chef</a> 🤳, Artificial Intelligence & Machine LearningEnthusiast🔭, Mentor and Project Admin at <a href="https://github.com/Learn-For-Cause">GitHub</a>🚀, Co-founder and IT Head at <a href="https://www.learnforcause.com">Learn For Cause Community</a> 🙌, Freelancer👯</a></p></li>
