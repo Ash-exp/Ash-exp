@@ -85,10 +85,11 @@ or use it. It'll help me a great deal.
 <img width=900 src="https://github-profile-trophy.vercel.app/?username=Ash-exp&column=7&theme=gruvbox&no-frame=true"/>
 </details>
 
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ash-exp&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" /> 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ash-exp&theme=tokyonight" />
+<p align="left" width="100%"><img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ash-exp&layout=compact&theme=radical" alt="Ash-exp" /></p>
+<p align="left" width="100%">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ash-exp&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Ash-exp" /> 
+  &nbsp;
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ash-exp&theme=radical" alt="Ash-exp" />
 </p>
 
 
